@@ -23,11 +23,11 @@ Sistemas Operacionais: Linux & MacOS
 ------------------
 📌 Projetos em Destaque
 
-🔹 Projeto de Sistemas Operativos - Breve descrição do projeto, o que ele faz e as tecnologias usadas.
+🔹 Projeto de Sistemas Operativos - 
 
-🔹 Projeto 2 - Outra breve descrição, destacando funcionalidades e aprendizados.
+🔹 Projeto de Programaçao por Objetos - 
 
-🔹 Projeto 3 - Se tiver mais projetos, adicione aqui.
+🔹 Projeto de Introduçao a Algoritmos e Estruturas de Dados -
 
 -----------------
 
